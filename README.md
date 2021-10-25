@@ -19,3 +19,19 @@ I'm a detail-oriented software developer, particularly interested in .NET / C# d
 <p align="center">
 	<a href="https://stackoverflow.com/users/9513617/pedro-coelho"><img src="https://stackoverflow.com/users/flair/9513617.png" width="208" height="58" alt="profile for Pedro Coelho at Stack Overflow" title="profile for Pedro Coelho at Stack Overflow"></a>
 </p>
+
+---
+
+<details>
+  <summary> <b> GitHub stats </b> <i>(Click to expand)</i> </summary>
+  <br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroamcoelho&show_icons=true&count_private=true&theme=radical&hide=&include_all_commits=true" />
+<br><br>
+</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroamcoelho" />
+</a>
+  
+---
